@@ -26,3 +26,13 @@ containing 5,010 orders and $1.09M in total revenue across 4 US regions.
 - Total of 5,010 orders across 4 regions: West, East, Central, South
 
 ## Project Structure
+## What I Did
+1. Loaded raw Superstore dataset into Excel
+2. Used Power Query to clean, transform and structure the data
+3. Built Pivot Tables for regional, category and customer analysis
+4. Designed interactive dashboard with slicers and dynamic charts
+5. Extracted key business insights from the data
+
+## Author
+**Arya I R** — Data Analyst | CS Graduate  
+[LinkedIn](https://www.linkedin.com/in/aryair/) · [GitHub](https://github.com/ariaahhh)
